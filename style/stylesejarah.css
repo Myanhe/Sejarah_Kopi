@@ -1,0 +1,128 @@
+body {
+  font-family: "Avenir Next";
+}
+
+p {
+  margin-bottom: 2em; 
+}
+.header {
+  background-color: #3E3232;
+  color: #fff;
+  height: 90px;
+  
+}
+.header a {
+  color:#bba1a1;
+  text-decoration: none;
+}
+.header-logo {
+  float: left;
+  font-size: 36px;
+  padding: 20px 40px;
+}
+
+.header-list li {
+  float: right;
+  padding: 33px 20px;
+  list-style: none;
+}
+
+  
+.main {
+  padding: 50px 80px 1250px 80px;
+  margin: auto;
+}
+
+.copy-container h1 {
+  text-align: center;
+  font-size: 100px;
+   }
+
+.copy-container h2 {
+  font-size: 60px;
+}
+
+.copy-container span {
+  color: #1b0a7b;
+}
+
+.contents  {
+  height: 5300px;
+  margin-top: 10px;
+  padding-bottom: 20px;
+}
+
+
+
+.section-title {
+  border-bottom: 2px solid #0f699a;
+  font-size: 28px;
+  padding-bottom: 15px;
+  margin-bottom: 25px;
+}
+
+.contents-isi{
+  height: 350px;
+  margin-top: 10px;
+  width: 700px;
+}
+
+aside {
+  float: right;
+  padding: 0px;
+  margin: 0px;
+  
+}
+aside img{
+  height: 300px;
+  width: 250px;
+}
+.contents-item {
+  float: left;
+  margin-right: 2%;
+}
+.contents-item img{
+  width: 250px;
+  height: 300px;  
+  object-fit: cover;
+}
+.contents-item p {
+  font-size: 24px;
+  margin-top: 10px;
+  text-align: center;
+}
+.contents-item a{
+  color: #000000;
+  text-decoration: none;
+}
+
+.footer {
+  background-color: #2f5167;
+  color: #fff;
+  height: 170px;
+  padding: 40px;
+  
+}
+
+.footer-logo {
+  float: left;
+  font-size: 32px;
+}
+
+.footer-list {
+  float: right;
+}
+
+.footer-list li {
+  padding-bottom: 20px;
+  list-style: none;
+}
+.footer-list a{
+  color:#B7CADB;
+  text-decoration: none;
+    
+}
+.footer-logo a{
+  color:#B7CADB;
+  text-decoration: none;
+}

@@ -62,9 +62,9 @@ p {
 }
 
 .contents-isi{
-  height: 350px;
+  height: 250px;
   margin-top: 10px;
-  width: 700px;
+  width: 200px;
 }
 
 aside {
@@ -83,7 +83,7 @@ aside img{
 }
 .contents-item img{
   width: 250px;
-  height: 300px;  
+  height: 200px;  
   object-fit: cover;
 }
 .contents-item p {
@@ -109,7 +109,7 @@ aside img{
   font-size: 32px;
 }
 
-.footer-list {
+.footer-content {
   float: right;
 }
 
